@@ -1,2 +1,0 @@
-streamlit
-sofascore-wrapper==1.0.24
